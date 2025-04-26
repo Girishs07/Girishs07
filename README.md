@@ -6,6 +6,7 @@ I'm on a mission to grow my skills and create impactful data solutions. 🚀
 ---
 
 ## 🛠️ Tools & Technologies
+- MS word
 - Python (Jupyter Notebook)
 - SQL (MySQL, PostgreSQL)
 - Power BI
