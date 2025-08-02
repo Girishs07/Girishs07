@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Summary Of Me:
 - 🔭 I’m currently exploring opportunities in Data Analysis, Full-Stack Development, and AI <br>- 🌱 I’m learning MERN Stack, Power BI, Python, and Machine Learning<br>- 🧠 Passionate about turning data into decisions and building smart web apps <br>- 👨‍💻 Participated in hackathons, internships, and freelance projects  <br>- 🚀 On a journey to become a Founder & CEO in the AI space within the next 5 years  <br>- ⚡ Fun fact: I'm also a district-level basketball player and a scout!<br>
 
 
